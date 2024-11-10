@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-      .text {
-        color: rgb(0, 0, 255);
-      }
-    </style>
   </head>
   <body>
     <h1 class="text" style="text-align:center;">Enjoy!</h1><br>
