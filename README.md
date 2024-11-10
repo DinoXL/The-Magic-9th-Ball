@@ -8,8 +8,7 @@
   
   <body>
     <h1 styles="text-align:center;">Enjoy!</h1><br>
-    
-    ![image](https://github.com/user-attachments/assets/852940ae-3df5-4d63-b35b-488fa99bd093)
+    <img src="https://file:///C:/Users/anand.alok/Desktop/html-css-course/9th-Ball/Magic%209th-Ball%20Preview.png" width="200">
   </body>
   
 </html>
